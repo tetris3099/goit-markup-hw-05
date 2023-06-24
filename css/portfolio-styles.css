@@ -219,8 +219,6 @@ address {
 
 .options:hover,
 .options:focus {
-  padding: 6px 22px 6px 22px;
-
   color: var(--stock-text-color);
   background-color: var(--accent-web-color);
   box-shadow: 
